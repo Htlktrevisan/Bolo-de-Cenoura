@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(201, 180, 180);
+    width: 100%;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Mudar a coloração do texto */
+h1,h2{
+    color: blue;
+}
+    
+
+img{
+    /* Mudar a margem e formato da imagem */
+    border-radius: 100px;
+
+}    
